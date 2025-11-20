@@ -1,16 +1,26 @@
-## Hi there 👋
+# Фёдор Тарасов  
+### Студент веб-разработки | Создаю современные веб-решения
+ 
+> 💻 Frontend Developer (React, TypeScript, Tailwind CSS)  
+> 📍 Москва, Россия  
+> 🌐 [ftarasow.ru](https://ftarasow.ru)
 
-<!--
-**gfux/gfux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🔧 Проекты
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Интерактивный калькулятор](https://github.com/gfux/ftarasow-calculator) — с историей, копированием и QR-кодом  
+- [Личное портфолио](https://github.com/gfux/portfolio-academic) — академический проект на React  
+- [CRM-панель задач](https://github.com/gfux/task-manager) — full-stack приложение  
+
+---
+
+## 📬 Контакты
+
+- Email: [ft-2@bk.ru](mailto:ft-2@bk.ru)  
+- GitHub: [@gfux](https://github.com/gfux)  
+- Telegram / WhatsApp: +7 (903) 698-74-09
+
+---
+
+© 2025 Фёдор Тарасов — Учебный проект
