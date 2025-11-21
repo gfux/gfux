@@ -3,7 +3,7 @@
  
 > 💻 Frontend Developer (React, TypeScript, Tailwind CSS)  
 > 📍 Москва, Россия  
-> 🌐 [ftarasow.ru](https://ftarasow.ru)
+> 🌐 [ftarasow.ru](https://portfolio-zeta-two-09e0bh6jdd.vercel.app/)
 
 ---
 
