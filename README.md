@@ -3,14 +3,14 @@
  
 > 💻 Frontend Developer (React, TypeScript, Tailwind CSS)  
 > 📍 Москва, Россия  
-> 🌐 [https://react-developer-portfolio-la78sto0g-gfuxs-projects-fea0b499.vercel.app/](https://react-developer-portfolio-la78sto0g-gfuxs-projects-fea0b499.vercel.app/)
+> 🌐 [https://ftarasow.ru)
 
 ---
 
 ## 🔧 Проекты
 
 - [Интерактивный калькулятор](https://github.com/gfux/ftarasow-calculator) — с историей, копированием и QR-кодом  
-- [Личное портфолио](https://react-developer-portfolio-la78sto0g-gfuxs-projects-fea0b499.vercel.app/) — академический проект на React  
+- [Личное портфолио](https://ftarasow.ru) — академический проект на React  
 - [CRM-панель задач](https://github.com/gfux/task-manager) — full-stack приложение  
 
 ---
